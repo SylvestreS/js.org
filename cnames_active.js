@@ -3295,6 +3295,7 @@ var cnames_active = {
   "sxw": "sxwjs.github.io",
   "sydinh": "sydinh.github.io",
   "sygnal": "tpresley.github.io/sygnal",
+  "sylvestre": "sylvestres.github.io",
   "synclyrics": "stef-00012.github.io/SyncLyrics-npm",
   "synergies": "lukasbach.github.io/synergies",
   "synth": "lukehorvat.github.io/synth-mood",
